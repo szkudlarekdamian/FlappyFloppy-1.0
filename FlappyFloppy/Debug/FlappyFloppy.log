@@ -1,0 +1,17 @@
+﻿  Game.cpp
+c:\users\damian\documents\studia\jipp\flappyfloppy\flappyfloppy\game.cpp(98): warning C4018: '<=': signed/unsigned mismatch
+c:\users\damian\documents\studia\jipp\flappyfloppy\flappyfloppy\game.cpp(113): warning C4018: '<=': signed/unsigned mismatch
+c:\users\damian\documents\studia\jipp\flappyfloppy\flappyfloppy\game.cpp(129): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\damian\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\damian\documents\studia\jipp\flappyfloppy\flappyfloppy\game.cpp(142): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\damian\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\damian\documents\studia\jipp\flappyfloppy\flappyfloppy\game.cpp(143): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\damian\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\damian\documents\studia\jipp\flappyfloppy\flappyfloppy\game.cpp(148): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\damian\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\damian\documents\studia\jipp\flappyfloppy\flappyfloppy\game.cpp(154): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\damian\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\damian\documents\studia\jipp\flappyfloppy\flappyfloppy\game.cpp(155): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\damian\documents\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+  FlappyFloppy.vcxproj -> C:\Users\Damian\Documents\Studia\JiPP\FlappyFloppy\Debug\FlappyFloppy.exe
+  FlappyFloppy.vcxproj -> C:\Users\Damian\Documents\Studia\JiPP\FlappyFloppy\Debug\FlappyFloppy.pdb (Full PDB)
